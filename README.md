@@ -19,6 +19,6 @@ Notas:
 
 -p 9998:8888 , 9998 es el puerto que utilizaras en tú navegador para entrar al contenedor, puedes poner el que desees.
 
-Cambia “//c/blog“ por una dirección de tú ordenador donde desees guardar los archivos y carpetas de trabajo.
+Cambia “//c/blog“ por una dirección donde desees guardar los archivos y carpetas de trabajo.
 
 
