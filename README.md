@@ -17,7 +17,7 @@ Si deseamos lanzar Jupyter:
     
 Notas:
 
--p 9998:8888 , 9998 es el puerto que utilizaras en tú navegador para entrar al contenedor, puedes poner el que desees.
+-p 9998:8888 , 9998 es el puerto local para el navegador, cambialo por el que desees.
 
 Cambia “//c/blog“ por una dirección donde desees guardar los archivos y carpetas de trabajo.
 
