@@ -1,7 +1,7 @@
 # python_blog
 Docker con Python 
 
-Python para usado en los articulos del blog: josecarpio.com
+Python usado en articulos del blog: josecarpio.com
 
 Uso
 -----
