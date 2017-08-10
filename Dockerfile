@@ -4,6 +4,8 @@ MAINTAINER Jose Antonio <joseantonio.carpio.villatoro@gmail.com>
 
 RUN pip install --upgrade pip
 RUN pip install selenium pymongo kombu beautifulsoup4 Unidecode tweepy
+RUN pip install pandas-datareader
+RUN conda install jupyter -y --quiet
 
 # Define mountable directories.
 VOLUME ["/blog"]
