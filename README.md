@@ -23,5 +23,3 @@ Notas:
 -p 9998:8888 , 9998 es el puerto local para el navegador, cambialo por el que desees.
 
 Cambia "//c/blog" ó "/Users/YourName/blog" por una dirección donde desees guardar los archivos y carpetas de trabajo.
-
-
