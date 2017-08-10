@@ -16,6 +16,7 @@ Si deseamos lanzar Jupyter, Linux y Mac:
     docker run -i -t -p 9998:8888 --name python_blog -v /Users/YourName/blog:/blog josecarpio/python_blog /bin/bash -c "/opt/conda/bin/jupyter notebook --notebook-dir=/blog --ip='*' --port=8888 --no-browser"
     
 Windows:
+
     docker run -i -t -p 9998:8888 --name python_blog -v //c/blog:/blog josecarpio/python_blog /bin/bash -c "/opt/conda/bin/jupyter notebook --notebook-dir=/blog --ip='*' --port=8888 --no-browser"
 
 Notas:
